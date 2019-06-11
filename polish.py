@@ -5,7 +5,6 @@ def isOp(string):
   return string == "+" or string == "-" or string == "*" or string == "/"
 
 print("Enter equation in Polish Notation seperated by spaces")
-print("(Enter exit to exit)")
 
 while True:
   valid = True

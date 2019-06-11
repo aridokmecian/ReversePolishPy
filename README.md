@@ -3,7 +3,8 @@ A small command line reverse Polish Notation created in Python
 
 ----------
 
-####Installation
+#### Installation
+
 ```
 1. git clone https://github.com/aridokmecian/ReversePolishPy.git
 2. cd ReversePolishPy
@@ -14,7 +15,7 @@ A small command line reverse Polish Notation created in Python
 ```
 
 ----------
-####How to Use and examples of Polish Notation
+#### How to Use and examples of Polish Notation
 ```
 To write a simple equation in Polish Notation you must write both coefficient's followed by the operator
 
